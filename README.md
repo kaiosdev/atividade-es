@@ -24,7 +24,6 @@ desejam melhorar sua organização.
 - Ana Pereira
 
 **Tecnologias Utilizadas**
-
 | | |
 |---|---|
 | Linguagem de programação:  JavaScript | JavaScript |
